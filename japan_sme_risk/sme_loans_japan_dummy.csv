@@ -1,0 +1,21 @@
+SME_ID,Revenue_JPY,Net_Income_JPY,Has_Guarantee,Interest_Rate_Pct,Default_Flag,Industry,Prefecture,Years_In_Business,Num_Employees,Is_Zombie,Reason
+SME_1,120000000,10000000,True,1.2,False,Construction,Hokkaido,12,8,False,Profitable or new business
+SME_2,80000000,-5000000,True,0.9,False,Retail,Osaka,5,4,True,Negative income + 3+ years in operation
+SME_3,45000000,-10000000,True,1.1,True,Manufacturing,Fukuoka,20,15,True,Negative income + 3+ years in operation
+SME_4,200000000,25000000,False,2.5,False,IT,Tokyo,15,35,False,Profitable or new business
+SME_5,35000000,-8000000,True,1.0,True,Construction,Saitama,8,5,True,Negative income + 3+ years in operation
+SME_6,60000000,1000000,False,2.0,False,Healthcare,Kyoto,10,12,False,Profitable or new business
+SME_7,90000000,5000000,False,2.3,False,Retail,Osaka,4,6,False,Profitable or new business
+SME_8,150000000,20000000,False,2.8,False,Wholesale,Nagoya,7,20,False,Profitable or new business
+SME_9,25000000,-12000000,True,1.0,True,Manufacturing,Hiroshima,25,10,True,Negative income + 3+ years in operation
+SME_10,40000000,-7000000,True,1.2,False,Retail,Osaka,18,5,True,Negative income + 3+ years in operation
+SME_11,70000000,3000000,False,2.2,False,Transport,Chiba,6,18,False,Profitable or new business
+SME_12,55000000,-2000000,True,1.3,True,Construction,Okinawa,30,3,True,Negative income + 3+ years in operation
+SME_13,100000000,8000000,False,2.0,False,Services,Tokyo,14,25,False,Profitable or new business
+SME_14,30000000,-11000000,True,0.8,True,Retail,Osaka,3,6,True,Negative income + 3+ years in operation
+SME_15,65000000,-1000000,False,2.4,False,IT,Nagano,9,9,True,Negative income + 3+ years in operation
+SME_16,85000000,2000000,False,2.6,False,Healthcare,Kyoto,11,13,False,Profitable or new business
+SME_17,95000000,6000000,False,2.7,False,Wholesale,Fukuoka,13,14,False,Profitable or new business
+SME_18,110000000,9000000,False,2.9,False,Construction,Tokyo,22,30,False,Profitable or new business
+SME_19,50000000,-3000000,True,1.5,False,Manufacturing,Hokkaido,16,7,True,Negative income + 3+ years in operation
+SME_20,20000000,-15000000,True,0.7,True,Retail,Osaka,6,4,True,Negative income + 3+ years in operation
