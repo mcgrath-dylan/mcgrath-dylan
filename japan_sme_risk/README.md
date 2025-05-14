@@ -4,14 +4,14 @@ This project explores how zombie SMEs—unprofitable firms surviving on governme
 
 📌 Based on BOJ/FSA policy concerns  
 📊 Powered by synthetic SME loan data (industry, prefecture, guarantee use)  
-🧠 Goal: Surface risk patterns before defaults hit
+🎯 Goal: Surface risk patterns before defaults hit
 
 ## What’s Included
 
-- `sme_loans_japan_dummy.csv` — Japan-specific synthetic SME data
-- `data_dictionary.md` — Column breakdown + source inspiration
-- `sources.md` — BOJ/FSA/TSR references
 - `boj_refs.md` — Direct quotes on zombie risk
+- `data_dictionary.md` — Column breakdown + source inspiration
+- `sme_loans_japan_dummy.csv` — Japan-specific synthetic SME data
+- `sources.md` — BOJ/FSA/TSR references
 
 ## Status
 
