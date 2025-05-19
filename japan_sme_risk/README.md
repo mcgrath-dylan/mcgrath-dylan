@@ -12,7 +12,7 @@ This project explores zombie SMEs (unprofitable firms surviving off government l
 
 ### 📊 Dashboard Preview
 
-View key insights in the [screenshots/](japan_sme_risk/screenshots) folder:
+View key insights in the [screenshots/](./screenshots) folder:
 - Industry-level zombie SME breakdown  
 - Profitability vs guarantee status (scatterplot + detailed tooltips)  
 - Geographic risk distribution via map of Japan  
