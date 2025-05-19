@@ -1,22 +1,40 @@
 # SME Risk Tracker — Japan
 
-This project explores how zombie SMEs—unprofitable firms surviving on government guarantees—persist in Japan’s financial system, especially in regional banks.
+This project explores zombie SMEs (unprofitable firms surviving off government loan guarantees) in Japan. These entities distort credit allocation and pose long-term systemic risks, especially for regional banks.
 
-📌 Based on BOJ/FSA policy concerns  
-📊 Powered by synthetic SME loan data (industry, prefecture, guarantee use)  
-🎯 Goal: Surface risk patterns before defaults hit
+### 📌 Why It Matters
 
-## What’s Included
+- 💸 Zombie SMEs distort Japan’s credit markets and burden regional banks.
+- 🏦 BOJ and FSA have flagged this as a growing systemic concern.
+- 🎯 Goal: Identify patterns to inform smarter credit strategy before defaults occur.  
 
-- `boj_refs.md` — Direct quotes on zombie risk
-- `data_dictionary.md` — Column breakdown + source inspiration
-- `sme_loans_japan_dummy.csv` — Japan-specific synthetic SME data
-- `sources.md` — BOJ/FSA/TSR references
+---
 
-## Status
+### 📊 Dashboard Preview
 
-- ✅ Dataset done  
-- 🔄 Dashboard in progress  
-- 🔜 Outreach to test audit interest
+View key insights in the [screenshots/](../screenshots) folder:
+- Industry-level zombie SME breakdown  
+- Profitability vs guarantee status (scatterplot + detailed tooltips)  
+- Geographic risk distribution via map of Japan  
 
-> Want to explore this risk in your own portfolio? [Email me.](mailto:mcgrath.fintech@gmail.com)
+---
+
+### 📁 What’s Included
+
+- `sme_loans_japan_dummy.csv` — Synthetic dataset inspired by BOJ concerns  
+- `data_dictionary.md` — Column breakdown + source inspiration  
+- `boj_refs.md` — BOJ quotes on zombie firm risk  
+- `sources.md` — Supporting FSA & TSR references  
+- `screenshots/` — Final dashboard images for portfolio and outreach  
+
+---
+
+### ✅ Project Status
+
+- ✔️ Dataset complete  
+- ✔️ Dashboard built and documented  
+- 📬 Outreach ongoing 
+
+---
+
+> Want to collaborate or apply this approach to real-world data? [Email me.](mailto:mcgrath.fintech@gmail.com)
