@@ -1,25 +1,47 @@
-# Dylan McGrath | Fintech BA  
-**Focus:** SME credit risk in Japan, banking inefficiencies, and RegTech insights.
+# Dylan McGrath | Fintech Business Analyst
 
-## 🚧 Active Project: SME Risk Tracker  
-**Context:** The Bank of Japan and FSA have raised concerns about zombie SMEs—unprofitable businesses surviving off government guarantees. These firms distort credit allocation and pose long-term risk to regional banks.
+**Exploring inefficiencies, regulatory gaps, and storytelling in global finance.**
 
-**What I’m Building:**  
-- A Power BI prototype to flag at-risk SMEs based on key financial signals (e.g. negative margins + credit guarantees).  
-- Grounded in BOJ/FSA data, using synthetic loan datasets.  
-- Goal: validate interest from analysts or institutions before scaling further.
+## 💡 What This Repo Is
 
-📂 Coming soon: `/japan_sme_risk/` (dashboard screenshots + source notes)
+This is a portfolio and sandbox for fintech experiments built at the intersection of:
 
-## 🎯 Repo Purpose  
-This repo is a sandbox for fintech experiments that combine:  
-- Data storytelling (Power BI, SQL)  
-- Japanese regulatory insight  
-- Risk transparency in SME finance  
+- 🧠 Business analysis (SQL, Power BI, automation)
+- 📊 Data visualization for financial decision-making
+- 🔎 Regulatory and risk transparency (RegTech, credit policy, and beyond)
 
-As the project evolves, this will expand into live dashboards, BOJ-aligned commentary, and outreach-ready prototypes.
+Projects here focus on identifying real-world pain points—especially where legacy systems or unclear rules create opportunity.
 
-## 🤝 Let’s Connect  
-📫 **Email:** mcgrath.fintech@gmail.com  
-💼 **LinkedIn:** [[Dylan McGrath](https://www.linkedin.com/in/dylanjamesmcgrath/)]  
-🗾 **Japanese:** Approx. JLPT N3, learning actively
+---
+
+## 🚧 Featured Project: SME Risk Tracker – Japan
+
+**Problem:** Zombie SMEs (unprofitable businesses propped up by government guarantees) remain a risk to Japan’s regional banking system (per BOJ/FSA).
+
+**Solution:**  
+- A Power BI dashboard simulating a risk triage tool for SME portfolios  
+- Built on synthetic—but Japan-specific—loan data  
+- Grounded in BOJ/FSA reporting  
+- Designed to spark conversations with analysts, not solve everything up front
+
+📁 [`/japan_sme_risk/`] → dashboard screenshots, data dictionary, notes
+
+---
+
+## 🎓 Learning Stack
+
+- HKUST/Coursera: *FinTech Foundations and Overview* (audit track) 
+- JLPT N3-level Japanese (learning actively, used in source reviews)
+- Ongoing exploration of:  
+  - RegTech opportunities  
+  - Retail investing workflows  
+  - Data-powered compliance tooling
+
+---
+
+## 🤝 Let’s Connect
+
+📧 **Email:** mcgrath.fintech@gmail.com  
+🔗 **LinkedIn:** [Dylan McGrath](https://www.linkedin.com/in/dylanjamesmcgrath/)  
+📍 **Based in the U.S., exploring international fintech systems**
+
