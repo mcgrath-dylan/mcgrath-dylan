@@ -5,7 +5,7 @@ It reflects patterns and concerns identified in BOJ and FSA reports regarding zo
 
 | Column               | Description                                                    | Example             | Source Inspiration               |
 |----------------------|----------------------------------------------------------------|---------------------|----------------------------------|
-| SME_ID               | Unique identifier for each small-to-medium enterprise          | SME_001             | Synthetic                        |
+| SME_ID               | Unique identifier for each small-to-medium enterprise          | SME_1             | Synthetic                        |
 | Revenue_JPY          | Annual revenue in Japanese yen                                 | 80,000,000          | Modeled after TSR reports        |
 | Net_Income_JPY       | Net income in yen (negative = unprofitable)                    | -5,000,000          | BOJ 2025, FSA 2024               |
 | Has_Guarantee        | TRUE if loan is covered by public credit guarantee             | TRUE                | BOJ 2025                         |
