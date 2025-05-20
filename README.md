@@ -23,7 +23,7 @@ Projects here focus on identifying real-world pain points, especially where lega
 - Built on synthetic data but grounded in BOJ/FSA reporting
 - Designed to spark conversations with analysts, not solve everything up front
 
-📁 [`/japan_sme_risk/`] → dashboard screenshots, data dictionary, notes
+📁 [japan_sme_risk/](./japan_sme_risk) → dashboard screenshots, data dictionary, notes
 
 ---
 
