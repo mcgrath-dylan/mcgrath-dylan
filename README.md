@@ -29,6 +29,7 @@ Projects here focus on identifying real-world pain points, especially where lega
 
 ## 🎓 Learning Stack
 
+- DeepLearning.AI/Coursera: *Machine Learning in Production* (audit track) 
 - HKUST/Coursera: *FinTech Foundations and Overview* (audit track) 
 - JLPT N3-level Japanese (learning actively, used in source reviews)
 - Ongoing exploration of:  
