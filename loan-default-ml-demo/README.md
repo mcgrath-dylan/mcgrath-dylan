@@ -16,7 +16,7 @@ This project demonstrates an end-to-end machine learning pipeline for predicting
 
 Upload a **CSV file** (recommended: use provided `data/sample_loans.csv`) and explore predictions live:
 
-> > [**Click here to try the app**](https://mcgrath-fintech-mcgrath-finte-loan-default-ml-demosrcapp-3gvyu1.streamlit.app/)]
+> [**Click here to try the app**](https://mcgrath-fintech-mcgrath-finte-loan-default-ml-demosrcapp-3gvyu1.streamlit.app/)
 
 - Set a probability threshold (0.05–0.80)
 - View prediction KPIs: precision, recall, accuracy
