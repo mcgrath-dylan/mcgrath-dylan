@@ -26,6 +26,24 @@ thr = st.sidebar.slider(
 
 uploaded = st.sidebar.file_uploader("📤 Upload CSV", type=["csv"])
 
+#  Sample data download button
+from pathlib import Path
+
+sample_path = (
+    Path(__file__).resolve().parent.parent      # …/loan-default-ml-demo
+    / "data"
+    / "sample_loans.csv"
+)
+
+with st.sidebar.expander("Need a sample file?"):
+    with open(sample_path, "rb") as f:
+        st.download_button(
+            label="⬇️ Download sample_loans.csv",
+            data=f,
+            file_name="sample_loans.csv",
+            mime="text/csv",
+        )
+
 #  3. Main panel
 if uploaded:
     df_raw = pd.read_csv(uploaded)
