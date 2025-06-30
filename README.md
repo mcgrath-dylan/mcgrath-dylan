@@ -52,4 +52,4 @@ Projects here focus on identifying real-world pain points and building practical
 
 📧 **Email:** mcgrath.fintech@gmail.com  
 🔗 **LinkedIn:** [Dylan McGrath](https://www.linkedin.com/in/dylanjamesmcgrath/)  
-📍  **Based in the U.S., exploring international fintech systems
+📍  Based in the US, exploring international fintech systems
