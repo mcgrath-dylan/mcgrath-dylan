@@ -24,7 +24,7 @@ Projects here focus on identifying real-world pain points and building practical
 - Streamlit app to demo predictions with adjustable threshold slider  
 - Completed end-to-end in under two weeks
 
-📁 [loan-default-ml-demo/](./loan-default-ml-demo) → notebooks, app, sample data, and more
+📁 [loan-default-ml-demo/](https://github.com/mcgrath-dylan/loan-default-ml-demo) → notebooks, app, sample data, and more
 
 ---
 
@@ -35,7 +35,7 @@ Projects here focus on identifying real-world pain points and building practical
 - Power BI dashboard exploring zombie SME risk in Japan's regional banking system  
 - Built on synthetic data inspired by BOJ/FSA reporting
 
-📁 [japan_sme_risk/](./japan_sme_risk) → dashboard screenshots, data dictionary, notes
+📁 [japan_sme_risk/](https://github.com/mcgrath-dylan/japan-sme-risk) → dashboard screenshots, data dictionary, notes
 
 ---
 
