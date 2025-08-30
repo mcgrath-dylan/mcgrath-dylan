@@ -1,4 +1,4 @@
-# Dylan McGrath | Business Analyst → Analytics Engineering (in progress)
+# Dylan McGrath | Business Analyst → Analytics Engineering
 
 Turning business questions into tested, documented data models and small data apps.
 
