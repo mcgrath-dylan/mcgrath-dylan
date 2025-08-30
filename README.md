@@ -1,55 +1,45 @@
-# Dylan McGrath | Fintech Business Analyst
+# Dylan McGrath | Business Analyst → Analytics Engineering (in progress)
 
-Exploring inefficiencies, regulatory gaps, and machine learning in global finance.
+Turning business questions into tested, documented data models and small data apps.
 
 ## 💡 What This Repo Is
+A portfolio and sandbox for practical analytics across:
+- 🧠 Business analysis — SQL, BI dashboards, process improvement
+- 🧱 Modern data stack — Snowflake + dbt (modeling, tests, docs, lineage)
+- 🧰 Lightweight data apps — Streamlit/LLM where they speed up insight
+- 🔎 Risk & operations — transparency, controls, decision support
 
-This is a portfolio and sandbox for fintech experiments at the intersection of:
-
-- 🧠 Business analysis (SQL, Power BI, automation)
-- 🤖 Machine learning modeling and deployment (scikit-learn, Streamlit)
-- 📊 Data visualization for financial decision-making
-- 🔎 Regulatory and risk transparency (RegTech, credit policy, and beyond)
-
-Projects here focus on identifying real-world pain points and building practical tools to address them.
+Building an AE toolkit (Snowflake + dbt) on top of BA experience. Projects focus on real pain points and shippable tools, not just experiments.
 
 ---
 
 ## 🚀 Featured Project: Loan Default ML Demo
+**Problem:** Many public default prediction models leak future data or overfit.  
+**Solution:** Clean, reproducible pipeline using only origination-time features to predict charge-offs in LendingClub data. Streamlit app for interactive thresholds.
 
-**Problem:** Many public default prediction models leak future data or overfit. This project creates a clean, reproducible pipeline using only origination-time features to predict loan charge-offs in LendingClub data.
-
-**Solution:**  
-- Three-stage pipeline (trim → EDA → modeling)  
-- Streamlit app to demo predictions with adjustable threshold slider  
-- Completed end-to-end in under two weeks
-
-📁 [loan-default-ml-demo/](https://github.com/mcgrath-dylan/loan-default-ml-demo) → notebooks, app, sample data, and more
+📁 [loan-default-ml-demo/](https://github.com/mcgrath-dylan/loan-default-ml-demo)
 
 ---
 
 ## 📚 Other Projects
 
 ### SME Risk Tracker – Japan
+Power BI dashboard exploring zombie-risk signals across Japan’s regional banks (synthetic data inspired by BOJ/FSA reporting).
 
-- Power BI dashboard exploring zombie SME risk in Japan's regional banking system  
-- Built on synthetic data inspired by BOJ/FSA reporting
-
-📁 [japan_sme_risk/](https://github.com/mcgrath-dylan/japan-sme-risk) → dashboard screenshots, data dictionary, notes
+📁 [japan_sme_risk/](https://github.com/mcgrath-dylan/japan-sme-risk)
 
 ---
 
 ## 🎓 Learning Stack
-
-- DeepLearning.AI/Coursera: *Machine Learning in Production* (audit track)
-- HKUST/Coursera: *FinTech Foundations and Overview* (audit track)
-- JLPT N3-level Japanese (learning actively)  
-- Ongoing exploration of RegTech, retail investing workflows, data-powered compliance tooling
+- **Snowflake Hands-On Essentials — 6 badges** (Warehousing; Collaboration & Marketplace; Data Applications; Data Lake; Data Engineering; Data Science & ML)
+- **dbt Fundamentals (dbt Labs)** — models, tests, docs, lineage
+- **Machine Learning in Production** — DeepLearning.AI/Coursera (audit)
+- **FinTech Foundations and Overview** — HKUST/Coursera (audit)
+- JLPT **N3-level** Japanese (actively improving)
 
 ---
 
 ## 🤝 Let’s Connect
-
-📧 **Email:** mcgrath.fintech@gmail.com  
-🔗 **LinkedIn:** [Dylan McGrath](https://www.linkedin.com/in/dylanjamesmcgrath/)  
-📍  Based in the US, exploring international fintech systems
+📧 mcgrath.fintech@gmail.com  
+🔗 [LinkedIn — Dylan McGrath](https://www.linkedin.com/in/dylanjamesmcgrath/)  
+📍 US-based; globally curious
